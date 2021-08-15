@@ -15,9 +15,9 @@ module.exports = {
   trailingSlash: false,
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Cepi Yard',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Cepi Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -28,7 +28,7 @@ module.exports = {
           label: 'Tutorial',
         },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.cepi.world',
           label: 'GitHub',
           position: 'right',
         },
@@ -50,16 +50,12 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.cepi.world',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.cepi.worlds',
             },
           ],
         },
@@ -68,12 +64,12 @@ module.exports = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.cepi.world',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Cepi, Inc. Built with Docusaurus.`,
     },
     prism: {
       theme: lightCodeTheme,
@@ -88,7 +84,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/Project-Cepi/yard/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
