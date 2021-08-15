@@ -35,7 +35,7 @@ jobs:
         with:
           node-version: '12.x'
       - name: Release to GitHub Pages
-      env:
+        env:
           USE_SSH: false
           GIT_USER: git
           CURRENT_BRANCH: main
