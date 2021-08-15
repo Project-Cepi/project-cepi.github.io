@@ -4,32 +4,17 @@ sidebar_position: 1
 
 # Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Cepi is an open-source MMORPG with a heavy focus on large-scale interactions and exploration. 
 
-## Getting Started
+However, this wiki is not for an indepth explination on the gameplay, but rather for the toolset that allows for content creation on the Cepi platform.
 
-Get started by **creating a new site**.
+## Tools
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Cepi is made up of many different tools that allow for content creation, 
+from the base mob system powering npcs and projectiles, to items handling combat and interaction.
 
-## Generate a new site
+## Development
 
-Generate a new Docusaurus site using the **classic template**:
+If you want to help contribute to the development of cepi, you can help [translate](https://github.com/Project-Cepi/Translations) cepi's systems,
 
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+or contribute to the [various systems on github](https://github.cepi.world)
