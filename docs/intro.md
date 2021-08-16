@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Cepi is an open-source MMORPG with a heavy focus on large-scale interactions and exploration. 
 
-However, this wiki is not for an indepth explination on the gameplay, but rather for the toolset that allows for content creation on the Cepi platform.
+However, this wiki is not for an indepth explanation on the gameplay, but rather for the toolset that allows for content creation on the Cepi platform.
 
 ## Tools
 
