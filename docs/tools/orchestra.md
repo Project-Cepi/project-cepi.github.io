@@ -10,3 +10,7 @@ Orchestra is Cepi's music handler. It allows for the playing of new
 ## Commands
 
 `/orchestra play (name)` plays a .nbs file by its name
+`/orchestra pause` pauses the current song
+`/orchestra resume` resumes the current song
+`/orchestra stop` stops the current song
+`/orchestra tempo (amount)` sets the tempo of the song
