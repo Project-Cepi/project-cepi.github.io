@@ -17,3 +17,11 @@ Cmd (Windows)
 ```powershell
 powershell -c "(Invoke-WebRequest -Uri 'https://installpw.cepi.world').Content | cmd /q"
 ```
+
+## Intellij
+
+Intellij is the reccomended editor for working with any Cepi extension. Eclipse can also be used if preferred, and a kotlin plugin is available to those who need it.
+
+## Gradle
+
+(If you are using Intellij gradle isn't required to be installed) [gradle](https://gradle.org/) is the build tool used for all kotlin-made services on Cepi.
