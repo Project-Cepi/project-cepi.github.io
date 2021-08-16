@@ -10,10 +10,10 @@ To install the server + all its extensions, use:
 
 Shell (Mac, Linux)
 ```bash
-curl -fsSL https://raw.githubusercontent.com/Project-Cepi/import-map/main/install.sh | sh
+curl -fsSL https://installsh.cepi.world | sh
 ```
 
 Cmd (Windows)
-```bat
-powershell -c "(Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/Project-Cepi/import-map/main/install.bat').Content | cmd /q"
+```powershell
+powershell -c "(Invoke-WebRequest -Uri 'https://installpw.cepi.world').Content | cmd /q"
 ```
