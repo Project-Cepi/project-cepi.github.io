@@ -12,7 +12,7 @@ It contains serializers for [kotlinx.serialization](https://github.com/kotlin/ko
 
 ## Kepi
 
-[Kepi](https://github.cepi.world/Kepi) is the core for any extension specific to Cepi. It contains useful utilities, data storage handling, and a ][translation manager](translation).
+[Kepi](https://github.cepi.world/Kepi) is the core for any extension specific to Cepi. It contains useful utilities, data storage handling, and a [translation manager](../translation).
 
 ## Making an Extension
 
