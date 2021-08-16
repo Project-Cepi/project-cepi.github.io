@@ -26,11 +26,10 @@ function HomepageHeader() {
 }
 
 export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`Cepi Yard`}
+      description="Cepi Yard contains all the information you need to start making stuff on Cepi!">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
