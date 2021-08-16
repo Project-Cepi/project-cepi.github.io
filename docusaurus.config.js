@@ -6,7 +6,7 @@ module.exports = {
   title: 'Cepi Yard',
   tagline: 'Documentation for anything cepi.',
   url: 'https://yard.cepi.world',
-  baseUrl: '/yard/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
