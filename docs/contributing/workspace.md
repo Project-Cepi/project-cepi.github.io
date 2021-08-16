@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Workspace
 
-Cepi is divided into the server jar, [Sabre](https://github.cepi.world/Sabre) and all of its extensions.
+Cepi is divided into the server jar, [Sabre](https://github.cepi.world/Sabre) (using [Minestom](https://github.com/Minestom/Minestom) and all of its extensions.
 
 To install the server + all its extensions, use:
 
