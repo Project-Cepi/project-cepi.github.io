@@ -40,6 +40,7 @@ jobs:
           CURRENT_BRANCH: main
           DEPLOYMENT_BRANCH: gh-pages
           GIT_PASS: ${{ secrets.GITHUB_TOKEN }}
+          GIT_USER: ${{ github.repository }}
         run: |
           REPO="${{ github.repository }}"
           GIT_USERNAME=${REPO%/*}
