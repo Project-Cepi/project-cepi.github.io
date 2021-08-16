@@ -1,7 +1,3 @@
----
-sidebar_position: 1
----
-
 # Items
 
 The item system allows for various items to be created with different `traits`.
@@ -24,3 +20,15 @@ Actions are a type of subtrait that allows the user to execute certain actions w
 Some actions can take an optional target property using the `Targeting System`, allowing the user to look at an entity and apply actions to that player.
 
 For example, the Up action sends the `target` up with `X` amonunt of velocity.
+
+### Commands
+
+Begin making a cepi item by using /item create
+
+Set traits by using `/item set <trait...> <arguments...>`
+
+Remove traits by using `/item remove <trait...>`
+
+If an item has an outdated format use `/item update` to reupdate the format.
+
+The item system also contains a [data](data) and [registry](registry) subcommand as well.

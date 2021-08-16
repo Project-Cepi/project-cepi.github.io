@@ -20,4 +20,8 @@ Goals: contact melee attack, goto (origin point)
 Targets: closest player (up to range 10)
 ```
 
-When an entity gets close, itll attempt to attack the entity. If no entities are present, itll go back to its origin point.
+When an entity gets close, it'll attempt to attack the entity. If no entities are present, itll go back to its origin point.
+
+## Subsystems
+
+The mob system has a few subsystems: [Projectiles](projectiles), [NPC](npc)
