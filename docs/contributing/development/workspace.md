@@ -13,9 +13,9 @@ Shell (Mac, Linux)
 curl -fsSL https://installsh.cepi.world | sh
 ```
 
-Cmd (Windows)
+Powershell (Windows)
 ```powershell
-powershell -c "(Invoke-WebRequest -Uri 'https://installpw.cepi.world').Content | cmd /q"
+iwr "https://installps.cepi.world" | iex
 ```
 
 ## Intellij
