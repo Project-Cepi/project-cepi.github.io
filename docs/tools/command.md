@@ -20,7 +20,7 @@ The basis of commands are literals. This mainly refers to subcommands (`/item cr
 Number arguments take a number as their input `/damage (amount)`
 
 Range arguments take 2 numbers with `..` between them. If one number is not there, EX `..2`, 
-a minimum value is set (-2147483648 by default, but some commands may set a different default)
+a minimum value is set (`-2147483648` by default, but some commands may set a different default)
 
 String arguments usually take some input wrapped around in quotes `/eris title full "hey" "world"`.
 
