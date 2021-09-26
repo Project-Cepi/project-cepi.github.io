@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Cepi Yard',
   tagline: 'Documentation for anything cepi.',
-  url: 'https://yard.cepi.world',
+  url: 'https://project-cepi.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
