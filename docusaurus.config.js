@@ -25,7 +25,7 @@ module.exports = {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Tools',
         },
         {
           href: 'https://github.cepi.world',
@@ -41,7 +41,7 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Tools',
               to: '/docs/intro',
             },
           ],

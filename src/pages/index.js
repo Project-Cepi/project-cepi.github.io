@@ -29,7 +29,7 @@ export default function Home() {
   return (
     <Layout
       title={`Cepi Yard`}
-      description="Cepi Yard contains all the information you need to start making stuff on Cepi!">
+      description="Cepi Yard contains all the information you need to start making anything on Cepi!">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
