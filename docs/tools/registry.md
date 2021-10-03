@@ -5,6 +5,7 @@ sidebar_position: 2
 # Registry
 
 Some systems have a Registry, allowing different items to be stored in the content database. 
+
 For example, the Item System has a registry that allows different items to be stored globally, sharing a global place for all items to be located in.
 
 ## Commands
