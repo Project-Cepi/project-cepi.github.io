@@ -6,7 +6,7 @@ sidebar_position: 3
 
 Data subcommands allow grabbing data from any item and turning it into NBT -- shareable data that can be turned right back into an item.
 
-:::caution
+:::note
 
 Only some commands have this implemented, like the `item` command. This is not a command on its own.
 
