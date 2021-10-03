@@ -15,7 +15,9 @@ These 3 combine to allow for some different variations of mobs, for example:
 ```
 Guardian
 
-Meta: 100 health
+Type: Llama
+Meta: White Llama
+Property: 100 health
 Goals: contact melee attack, goto (origin point)
 Targets: closest player (up to range 10)
 ```
