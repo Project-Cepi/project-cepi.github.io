@@ -29,6 +29,6 @@ Set traits by using `/item set <trait...> <arguments...>`
 
 Remove traits by using `/item remove <trait...>`
 
-If an item has an outdated format use `/item update` to reupdate the format.
+If an item has an outdated format, use `/item update` to reupdate the format.
 
 The item system also contains a [data](data) and [registry](registry) subcommand as well.

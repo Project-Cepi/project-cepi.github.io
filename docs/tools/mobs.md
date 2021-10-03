@@ -2,15 +2,17 @@
 
 Mobs are the base system for all entities in Cepi, including NPCs and Projectiles.
 
-They consist of 3 sets:
+They consist of 4 sets:
 
-Meta (Properties of the mob, ex: health, ability to take damage, speed)
+Meta (Usually visual elements of the mob; These are auto generated)
+
+Properties (Behavior of the mob)
 
 Goals (What they want to do, ex use melee attacks)
 
 Targets (The target of the mob, ex the last damager)
 
-These 3 combine to allow for some different variations of mobs, for example:
+These 4 combine to allow for some different variations of mobs, for example:
 
 ```
 Guardian
