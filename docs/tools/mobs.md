@@ -22,6 +22,10 @@ Targets: closest player (up to range 10)
 
 When an entity gets close, it'll attempt to attack the entity. If no entities are present, itll go back to its origin point.
 
+## Templates
+
+If you want a mob for testing out your item, you can use any `/mob template` provided.
+
 ## Subsystems
 
 The mob system has a few subsystems: [Projectiles](projectiles), [NPC](npc)

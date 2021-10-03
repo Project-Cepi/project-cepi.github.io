@@ -6,7 +6,11 @@ Traps allow you to make blocks do special actions depending on the interaction o
 
 `/trap handle (trapName) (trapPosition: x y z) (...args)`
 
+:::tip
+
 TIP: trapPosition tab completes to the block you're looking at.
+
+:::
 
 ## Usages
 
