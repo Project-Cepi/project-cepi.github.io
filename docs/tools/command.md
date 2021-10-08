@@ -39,7 +39,41 @@ If a string argument is the last argument, quotes are optional. `/eris mini <red
 
 If you want to add quotes to a string argument, you can "escape" it (`\"`): `/eris title full "bob says: " "\"Hello\""`
 
+### Entity Selectors
+
 Entity selectors are default in vanilla -- they have many specifications which can [be found here](https://minecraft.fandom.com/wiki/Target_selectors)
+
+### Time
+
+Time is an argument that takes a number and a time unit (d: minecraft day, t: server tick)
+
+For example, this can be used in mob goals to set the time it takes for a mob to do something:
+
+`/mob goal add contactmeleeattack (time: 1t)`
+
+### Vectors
+Vectors allow you to represent the position of something.
+There are 3 types of vector numbers:
+
+`~(number)` Relative to the command sender: `~ ~ ~` is the sender's current position.
+
+`^(number)` Relative to the command sender's direction. 
+`^ ^ ^5` is 5 blocks forward from the player's direction
+
+`(number)` Relative to the world.
+`0 0 0` is at the coordinates 0 0 0 in the player world.
+
+These arguments are mix matchable, for example `~ 100 ~` teleports you to y=100 at your current position.
+
+# MiniMessage
+
+[MiniMessage](https://docs.adventure.kyori.net/minimessage) is a format by [Adventure](https://docs.adventure.kyori.net)
+
+It allows basic coloring with the use of tags:
+
+`<red>Hello World` = <span style={{color: "red"}}>Hello World</span>
+
+There's other tags, like bold, underline, and more. The MiniMessage argumemt automatically tab completes these.
 
 ## Types of creational commands
 
