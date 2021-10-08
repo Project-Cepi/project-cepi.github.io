@@ -12,7 +12,6 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'Project-Cepi', // Usually your GitHub org/user name.
   projectName: 'yard', // Usually your repo name.
-  trailingSlash: false,
   themeConfig: {
     navbar: {
       title: 'Cepi Yard',
