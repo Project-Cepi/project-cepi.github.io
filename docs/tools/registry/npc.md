@@ -5,4 +5,4 @@ or a walking civillian in a city.
 
 ## Commands
 
-`/npc create (id)` Creates an NPC with an ID -- must be holding a [mob](mobs) egg.
+`/npc create (id)` Creates an NPC with an ID -- must be holding a [mob](../item/mobs) egg.

@@ -91,9 +91,9 @@ This is because the data is stored on the item itself, and not the server.
 
 Every action done by an `item` command, unless on the registry, will be based on the items you are holding.
 
-You can use a [data](./data) subcommand or the [`nbt`](./data#nbt) command to get this data.
+You can use a [data](./item/data) subcommand or the [`nbt`](./item/data#nbt) command to get this data.
 
-Item commands may also contain a [`registry`](./registry) subcommand, linked to the server.
+Item commands may also contain a [`registry`](./item/registry) subcommand, linked to the server.
 
 This allows people to share their created items in a server database.
 

@@ -32,4 +32,4 @@ If you want a mob for testing out your item, you can use any `/mob template` pro
 
 ## Subsystems
 
-The mob system has a few subsystems: [Projectiles](projectiles), [NPC](npc)
+The mob system has a few subsystems: [Projectiles](projectiles), [NPC](../registry/npc)
