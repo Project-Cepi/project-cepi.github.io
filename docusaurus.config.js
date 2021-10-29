@@ -22,15 +22,26 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          docId: 'intro',
+          docId: 'tools/tools',
           position: 'left',
           label: 'Tools',
         },
+		{
+			type: "doc",
+			docId: "contributing/intro",
+			position: 'left',
+			label: "Contributing"
+		},
         {
           href: 'https://github.cepi.world',
           label: 'GitHub',
           position: 'right',
         },
+		{
+			href: "https://discord.cepi.world",
+			label: "Discord",
+			position: "right"
+		}
       ],
     },
     footer: {
