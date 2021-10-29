@@ -17,7 +17,7 @@ module.exports = {
       title: 'Cepi Yard',
       logo: {
         alt: 'Cepi Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {
