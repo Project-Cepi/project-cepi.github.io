@@ -15,10 +15,15 @@ function HomepageHeader() {
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
+		  	style={{ marginRight: 30 }}
             className="button button--secondary button--lg"
-            to="/docs/intro">
+            to="/docs/tools/tools">
             All Tooling
           </Link>
+		  <Link
+		  	className="button button--tertiary button--lg"
+			  to="/docs/contributing/intro"
+		  >Contribute</Link>
         </div>
       </div>
     </header>
