@@ -52,8 +52,12 @@ module.exports = {
           items: [
             {
               label: 'Tools',
-              to: '/docs/intro',
+              to: '/docs/tools/tools',
             },
+			{
+				label: "Contributing",
+				to: "/docs/contributing/intro"
+			}
           ],
         },
         {
