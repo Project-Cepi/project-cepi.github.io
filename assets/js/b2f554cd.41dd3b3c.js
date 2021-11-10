@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyard=self.webpackChunkyard||[]).push([[477],{10:function(s){s.exports={blogPosts:[]}}}]);
