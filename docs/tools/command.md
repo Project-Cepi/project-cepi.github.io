@@ -65,7 +65,7 @@ There are 3 types of vector numbers:
 
 These arguments are mix matchable, for example `~ 100 ~` teleports you to y=100 at your current position.
 
-# MiniMessage
+### MiniMessage
 
 [MiniMessage](https://docs.adventure.kyori.net/minimessage) is a format by [Adventure](https://docs.adventure.kyori.net)
 
